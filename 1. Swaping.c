@@ -122,3 +122,6 @@ void main()
     printf("B= %d",b);
 
 }
+
+
+Swaping 2 Numbers Various Methods
